@@ -1,4 +1,8 @@
+# CSE464-Assignment-2-1920773
 # todo_app_iub
+# Things to do:
+1. Create Text Strike Through on checkbox checked
+2. Implement To Do list using Listview.Builder
 
 A new Flutter project.
 
